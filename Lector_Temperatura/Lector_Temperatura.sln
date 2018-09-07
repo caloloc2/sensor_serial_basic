@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lector_Temperatura", "Lector_Temperatura\Lector_Temperatura.vbproj", "{FAAF57D5-5CB2-420A-B711-ED22665FCC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAF57D5-5CB2-420A-B711-ED22665FCC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAF57D5-5CB2-420A-B711-ED22665FCC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAF57D5-5CB2-420A-B711-ED22665FCC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAF57D5-5CB2-420A-B711-ED22665FCC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D790876F-350A-4E9C-ADE4-53F71124F05A}
+	EndGlobalSection
+EndGlobal
